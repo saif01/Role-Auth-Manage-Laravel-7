@@ -23,12 +23,12 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## About Laravel
 
--In this project manage user roles 
--Use Auth 
--Use Gate, Can
--User Login and Register
--Edit Update and Delete 
--Bootstrap 4.5
+- In this project manage user roles 
+- Use Auth 
+- Use Gate, Can
+- User Login and Register
+- Edit Update and Delete 
+- Bootstrap 4.5
 
 
 
